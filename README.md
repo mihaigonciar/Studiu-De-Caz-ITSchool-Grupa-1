@@ -16,6 +16,12 @@ Solutia este formata din 2 proiecte:
 - `StudiuDeCaz1.Backend` => Proiect tip librarie de clase. Contine clasa `Contact` si `ContactFactory`, care impreuna gestioneaza datele datele si stocarea lor.
 - `StudiuDeCaz1.Frondend` => Proiect de tip Windows Forms Application. Contine diverse `Forms` si `UserControls` construite in jurul claselor de backend si gestioneaza rularea aplicatiei.
 
+### Limitari ###
+Aplicatia nu dispune de mecanism de import / export de date.
+Contactele pre-populate in aplicatie provin dintr-un mecanism temporar, executat inainte de incarcarea ferestrei principale.
+
+![image](https://github.com/user-attachments/assets/a27d3cbc-7f6e-46cd-95a8-e1abe285c5fe)
+
 # Prezentarea Aplicatiei Grafice #
 
 ### Fereastra Principala ###
