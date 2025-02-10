@@ -273,6 +273,7 @@
             AcceptButton = SubmitButton;
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
+            CancelButton = CancelButton;
             ClientSize = new Size(483, 374);
             Controls.Add(panel2);
             Controls.Add(panel1);

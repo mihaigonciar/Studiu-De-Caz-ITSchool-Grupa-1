@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35707.178 d17.12
+VisualStudioVersion = 17.12.35707.178
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Studiu De Caz ITSchool Grupa 1", "Studiu De Caz ITSchool Grupa 1\Studiu De Caz ITSchool Grupa 1.csproj", "{0EAFB785-BE1C-4CA6-8FB9-E66EE9E8EA57}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudiuDeCaz1.Frontend", "Studiu De Caz ITSchool Grupa 1\StudiuDeCaz1.Frontend.csproj", "{0EAFB785-BE1C-4CA6-8FB9-E66EE9E8EA57}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudiuDeCaz1.Backend", "StudiuDeCaz1.Backend\StudiuDeCaz1.Backend.csproj", "{5471C62F-0580-4F07-96BE-F9D7537E9512}"
 EndProject
